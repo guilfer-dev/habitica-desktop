@@ -10,7 +10,7 @@ app.whenReady().then(() => {
         icon: "./assets/icon.png"
     })
 
-    win.loadURL('https://calendar.google.com');
+    win.loadURL('https://habitica.com');
 
     app.on('activate', function () {
         if (BrowserWindow.getAllWindows().length === 0) createWindow()
