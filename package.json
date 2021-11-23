@@ -1,7 +1,7 @@
 {
-  "name": "gcalendar-desktop",
+  "name": "habitica-desktop",
   "version": "0.0.1",
-  "description": "Google calendar for windows",
+  "description": "Habitica client for windows",
   "main": "main.js",
   "scripts": {
     "start": "electron-forge start",
